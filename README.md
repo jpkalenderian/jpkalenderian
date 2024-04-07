@@ -2,7 +2,7 @@
 
 💻 Passionate MIS student with a love for programs that have a positive impact. 
 
-🛠️  Currently working on a calculator web app (HTML/CSS/JavaScript), as well as a Library application (Java). 
+🛠️  Currently working on a calculator web app (HTML/CSS/JavaScript), as well as a Library Management System (Java). 
 
 🌐 Open to collaboration and always eager to learn new things. 
 
