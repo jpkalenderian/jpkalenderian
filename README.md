@@ -10,10 +10,10 @@ REST APIs, and automation. Passionate about building practical solutions to real
 - **AI Tools:** Claude, GitHub Copilot
 
 ## 🚀 Projects
-- **[Weather App]([https://github.com/jpkalenderian/Weather-App])** — Real-time weather data app using a public REST API
-- **[To-Do List]([https://github.com/jpkalenderian/To-Do-List])** — Task management app built with React
-- **[Calculator]([https://github.com/jpkalenderian/Calculator])** — Functional calculator built with vanilla JavaScript
-- **[Library Management System]([https://github.com/jpkalenderian/Library])** — Java-based library system
+- [Weather App](https://github.com/jpkalenderian/Weather-App) — Real-time weather data app using a public REST API
+- [To-Do List](https://github.com/jpkalenderian/To-Do-List) — Task management app built with React
+- [Calculator](https://github.com/jpkalenderian/Calculator) — Functional calculator built with vanilla JavaScript
+- [Library Management System](https://github.com/jpkalenderian/Library) — Java-based library system
 
 ## 🔗 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/jeanpaulkalenderian/
+- [LinkedIn](https://www.linkedin.com/in/jeanpaulkalenderian/)
